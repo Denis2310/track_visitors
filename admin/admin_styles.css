@@ -1,0 +1,21 @@
+.input_container {
+	margin: 20px;
+}
+
+button {
+	margin-left: 20px;
+}
+
+button a {
+	text-decoration: none;
+	color: white;
+}
+
+button a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+h2.main-heading {
+	margin-top: 20px;
+}
